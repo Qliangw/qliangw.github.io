@@ -8,17 +8,10 @@ source: `{{ page.path }}`
 
 
 
-## site.pages
-
-<!-- prettier-ignore-start -->
-
-| source          | link                                                           |
+| source          | 说明                                                     |
 | --------------- | -------------------------------------------------------------- |
-{% for page in site.pages -%}
-| {{ page.path }} | [{{ page.url | relative_url }}]({{ page.url | relative_url }}) |
-{% endfor %}
-
-<!-- prettier-ignore-end -->
+| study | 学习笔记 |
+|project|应用笔记|
 
 
 
