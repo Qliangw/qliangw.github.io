@@ -1,11 +1,12 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 应用项目
+# Hardware
 
 {% include list.liquid all=true %}
 
 source: `{{ page.path }}`
 
-存放项目相关使用说明
+硬件知识笔记。
+

@@ -2,10 +2,11 @@
 sort: 2
 ---
 
-# 应用项目
+# Bare-Metal
 
 {% include list.liquid all=true %}
 
 source: `{{ page.path }}`
 
-存放项目相关使用说明
+裸机开发
+

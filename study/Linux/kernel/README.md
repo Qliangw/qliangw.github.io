@@ -2,10 +2,10 @@
 sort: 2
 ---
 
-# 应用项目
+# kernel
 
 {% include list.liquid all=true %}
 
 source: `{{ page.path }}`
 
-存放项目相关使用说明
+kernel开发笔记

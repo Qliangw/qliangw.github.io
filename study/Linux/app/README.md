@@ -1,11 +1,12 @@
 ---
-sort: 2
+sort: 4
 ---
 
-# 应用项目
+# application
 
 {% include list.liquid all=true %}
 
 source: `{{ page.path }}`
 
-存放项目相关使用说明
+应用软件笔记
+
